@@ -36,11 +36,4 @@
   - 📌 https://github.com/AfatekDevelopers
   - 📌 https://github.com/loop-soft
 
-![Hüsamettin's GitHub stats](https://github-readme-stats.vercel.app/api?username=husamettinarabaci\&include_all_commits=true)
-
-
-[![Hüsamettin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=husamettinarabaci&border_radius=8&mode=weekly&card_width=500)](https://git.io/streak-stats)
-
-![Hüsamettin's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husamettinarabaci&theme=github)
-
 - 💬 if there's anything you need don't hesitate to ask
