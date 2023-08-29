@@ -35,5 +35,7 @@
   - 📌 https://github.com/Movsec
   - 📌 https://github.com/AfatekDevelopers
   - 📌 https://github.com/loop-soft
+
+![Hüsamettin's GitHub stats](https://github-readme-stats.vercel.app/api?username=husamettinarabaci&show_icons=true&theme=transparent)
   
 - 💬 if there's anything you need don't hesitate to ask
