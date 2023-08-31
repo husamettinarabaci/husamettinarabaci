@@ -25,9 +25,15 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+<details>
+  <summary>Programming Languages & Technical Skills</summary>
+  
+</details>
+
+<details>
+  <summary>I'm also interested in</summary>
+  
+</details>
 
   ![Hüsamettin's GitHub stats](https://github-readme-stats-husamettinarabaci.vercel.app/api?username=husamettinarabaci&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
