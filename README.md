@@ -1,12 +1,11 @@
 ### Hi there 👋 
 
 ---
-
-![Counter](https://komarev.com/ghpvc/?username=husamettinarabaci&style=flat-square&label=Profile%20Views)
-
 - 🔭 I’m currently working on Golang , Golang and <b>Golang</b> all-day.
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![AstonMartin](https://img.shields.io/badge/AstonMartin-%23363636.svg?style=for-the-badge&logo=astonmartin&logoColor=#000000)
+![Rust](https://img.shields.io/badge/Rust-%23026AA7.svg?style=for-the-badge&logo=rust&logoColor=#000000)
 
 ![DDD](https://img.shields.io/badge/DomainDrivenDesign-%23326ce5.svg?style=for-the-badge&logoColor=white)
 ![EDD](https://img.shields.io/badge/EventDrivenDesign-%235835CC.svg?style=for-the-badge&logoColor=white)
@@ -33,20 +32,15 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<details>
-  <summary>Programming Languages & Technical Skills</summary>
-  
-</details>
+### Programming Languages & Technical Skills
 
-<details>
-  <summary>I've used some other instruments</summary>
+### I've used some other instruments
   
-</details>
+### I'm also interested in Electronic Design and Development
 
-<details>
-  <summary>I'm also interested in Electronic Design and Development</summary>
-  
-</details>
+### Stats
+
+![Counter](https://komarev.com/ghpvc/?username=husamettinarabaci&style=flat-square&label=Profile%20Views)
 
   ![Hüsamettin's GitHub stats](https://github-readme-stats-husamettinarabaci.vercel.app/api?username=husamettinarabaci&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
