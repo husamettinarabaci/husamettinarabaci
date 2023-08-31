@@ -3,18 +3,18 @@
 ---
 - 🔭 I’m currently working on Golang , Golang and <b>Golang</b> all-day.
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&color=%23ABC3D6)
-![AstonMartin](https://img.shields.io/badge/Aston%20Martin-%23363636.svg?style=for-the-badge&logo=astonmartin&logoColor=white&color=%23A9C1D4)
-![Rust](https://img.shields.io/badge/Rust-%23026AA7.svg?style=for-the-badge&logo=rust&logoColor=white&color=%23A7BFD1)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&color=%239BB3C3)
+![AstonMartin](https://img.shields.io/badge/Aston%20Martin-%23363636.svg?style=for-the-badge&logo=astonmartin&logoColor=white&color=%239BB3C3)
+![Rust](https://img.shields.io/badge/Rust-%23026AA7.svg?style=for-the-badge&logo=rust&logoColor=white&color=%239BB3C3)
 
-![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-%23326ce5.svg?style=for-the-badge&logoColor=white&color=%23A6BDD0)
-![EDD](https://img.shields.io/badge/Event%20Driven%20Design-%235835CC.svg?style=for-the-badge&logoColor=white&color=%23A4BCCE)
-![EventSourcing](https://img.shields.io/badge/Event%20Sourcing-%23363636.svg?style=for-the-badge&logoColor=white&color=%23A2BACC)
-![MicroServices](https://img.shields.io/badge/MicroServices-%230db7ed.svg?style=for-the-badge&logoColor=white&color=%23A0B9C9)
+![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-%23326ce5.svg?style=for-the-badge&logoColor=white&color=%239BB3C3)
+![EDD](https://img.shields.io/badge/Event%20Driven%20Design-%235835CC.svg?style=for-the-badge&logoColor=white&color=%239BB3C3)
+![EventSourcing](https://img.shields.io/badge/Event%20Sourcing-%23363636.svg?style=for-the-badge&logoColor=white&color=%239BB3C3)
+![MicroServices](https://img.shields.io/badge/MicroServices-%230db7ed.svg?style=for-the-badge&logoColor=white&color=%239BB3C3)
 
 ---
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&color=%239EB7C7)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&color=%239BB3C3)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=%239DB5C5)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&color=%239BB3C3)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=%2399B1C1)
