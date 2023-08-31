@@ -34,9 +34,40 @@
 
 ### Programming Languages & Technical Skills
 
+
+
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23026AA7.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=#FF4F8B)
+![DynamoDb](https://img.shields.io/badge/DynamoDb-%23026AA7.svg?style=for-the-badge&logo=amazondynamodb&logoColor=#4053D6)
+![EC2](https://img.shields.io/badge/EC2-%23026AA7.svg?style=for-the-badge&logo=amazonec2&logoColor=#FF9900)
+![ECS](https://img.shields.io/badge/ECS-%23026AA7.svg?style=for-the-badge&logo=amazonecs&logoColor=#FF9900)
+![ApiGW](https://img.shields.io/badge/ApiGW-%23026AA7.svg?style=for-the-badge&logo=amazonapigateway&logoColor=#FF4F8B)
+![EKS](https://img.shields.io/badge/EKS-%23026AA7.svg?style=for-the-badge&logo=amazoneks&logoColor=#FF9900)
+![Iam](https://img.shields.io/badge/Iam-%23026AA7.svg?style=for-the-badge&logo=amazoniam&logoColor=#DD344C)
+![Rds](https://img.shields.io/badge/RDS-%23026AA7.svg?style=for-the-badge&logo=amazonrds&logoColor=#527FFF)
+![RedShift](https://img.shields.io/badge/RedShift-%23026AA7.svg?style=for-the-badge&logo=amazonredshift&logoColor=#8C4FFF)
+![S3](https://img.shields.io/badge/S3-%23026AA7.svg?style=for-the-badge&logo=amazons3&logoColor=#569A31)
+![SQS](https://img.shields.io/badge/SQS-%23026AA7.svg?style=for-the-badge&logo=amazonsqs&logoColor=#FF4F8B)
+![Fargate](https://img.shields.io/badge/Fargate-%23026AA7.svg?style=for-the-badge&logo=awsfargate&logoColor=#FF9900)
+![Lambda](https://img.shields.io/badge/Lambda-%23026AA7.svg?style=for-the-badge&logo=awslambda&logoColor=#FF9900)
+
 ### I've used some other instruments
   
 ### I'm also interested in Electronic Design and Development
+
+![Altium](https://img.shields.io/badge/Altium-%23026AA7.svg?style=for-the-badge&logo=altiumdesigner&logoColor=#A5915F)
+![Eagle](https://img.shields.io/badge/Eagle-%23026AA7.svg?style=for-the-badge&logo=eagle&logoColor=#0072EF)
+![EasyEda](https://img.shields.io/badge/EasyEda-%23026AA7.svg?style=for-the-badge&logo=easyeda&logoColor=#1765F6)
+![Bt](https://img.shields.io/badge/Bt-%23026AA7.svg?style=for-the-badge&logo=bluetooth&logoColor=#0082FC)
+![Arm](https://img.shields.io/badge/Arm-%23026AA7.svg?style=for-the-badge&logo=arm&logoColor=#0091BD)
+![Keil](https://img.shields.io/badge/Keil-%23026AA7.svg?style=for-the-badge&logo=armkeil&logoColor=#394049)
+![Qemu](https://img.shields.io/badge/Qemu-%23026AA7.svg?style=for-the-badge&logo=qemu&logoColor=#FF6600)
+![Qt](https://img.shields.io/badge/Qt-%23026AA7.svg?style=for-the-badge&logo=qt&logoColor=#41CD52)
+![Rpi](https://img.shields.io/badge/Rpi-%23026AA7.svg?style=for-the-badge&logo=raspberrypi&logoColor=#A22846)
+![Stm](https://img.shields.io/badge/Stm-%23026AA7.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=#03234B)
+![LabView](https://img.shields.io/badge/LabView-%23026AA7.svg?style=for-the-badge&logo=labview&logoColor=#FFDB00)
+![Zigbee](https://img.shields.io/badge/Zigbee-%23026AA7.svg?style=for-the-badge&logo=zigbee&logoColor=#EB0443)
+![Esp](https://img.shields.io/badge/Esp-%23026AA7.svg?style=for-the-badge&logo=espressif&logoColor=#E7352C)
+![KiCAD](https://img.shields.io/badge/KiCAD-%23026AA7.svg?style=for-the-badge&logo=kicad&logoColor=#314CB0)
 
 ### Stats
 
