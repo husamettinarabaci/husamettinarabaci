@@ -35,18 +35,18 @@
 
 ---
 
-![CloudWatch](https://img.shields.io/badge/CloudWatch-%23026AA7.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=#FF4F8B)
-![DynamoDb](https://img.shields.io/badge/DynamoDb-%23026AA7.svg?style=for-the-badge&logo=amazondynamodb&logoColor=#4053D6)
-![EC2](https://img.shields.io/badge/EC2-%23026AA7.svg?style=for-the-badge&logo=amazonec2&logoColor=#FF9900)
-![ECS](https://img.shields.io/badge/ECS-%23026AA7.svg?style=for-the-badge&logo=amazonecs&logoColor=#FF9900)
-![ApiGW](https://img.shields.io/badge/ApiGW-%23026AA7.svg?style=for-the-badge&logo=amazonapigateway&logoColor=#FF4F8B)
-![EKS](https://img.shields.io/badge/EKS-%23026AA7.svg?style=for-the-badge&logo=amazoneks&logoColor=#FF9900)
-![Iam](https://img.shields.io/badge/Iam-%23026AA7.svg?style=for-the-badge&logo=amazoniam&logoColor=#DD344C)
-![Rds](https://img.shields.io/badge/RDS-%23026AA7.svg?style=for-the-badge&logo=amazonrds&logoColor=#527FFF)
-![RedShift](https://img.shields.io/badge/RedShift-%23026AA7.svg?style=for-the-badge&logo=amazonredshift&logoColor=#8C4FFF)
-![S3](https://img.shields.io/badge/S3-%23026AA7.svg?style=for-the-badge&logo=amazons3&logoColor=#569A31)
-![SQS](https://img.shields.io/badge/SQS-%23026AA7.svg?style=for-the-badge&logo=amazonsqs&logoColor=#FF4F8B)
-![Fargate](https://img.shields.io/badge/Fargate-%23026AA7.svg?style=for-the-badge&logo=awsfargate&logoColor=#FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23326ce5.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=#FF4F8B)
+![DynamoDb](https://img.shields.io/badge/DynamoDb-%23316192.svg?style=for-the-badge&logo=amazondynamodb&logoColor=#4053D6)
+![EC2](https://img.shields.io/badge/EC2-%235835CC.svg?style=for-the-badge&logo=amazonec2&logoColor=#FF9900)
+![ECS](https://img.shields.io/badge/ECS-%23363636.svg?style=for-the-badge&logo=amazonecs&logoColor=#FF9900)
+![ApiGW](https://img.shields.io/badge/ApiGW-%23FF9900.svg?style=for-the-badge&logo=amazonapigateway&logoColor=#FF4F8B)
+![EKS](https://img.shields.io/badge/EKS-%23F05033.svg?style=for-the-badge&logo=amazoneks&logoColor=#FF9900)
+![Iam](https://img.shields.io/badge/Iam-%23F05033.svg?style=for-the-badge&logo=amazoniam&logoColor=#DD344C)
+![Rds](https://img.shields.io/badge/RDS-%23121011.svg?style=for-the-badge&logo=amazonrds&logoColor=#527FFF)
+![RedShift](https://img.shields.io/badge/RedShift-%232671E5.svg?style=for-the-badge&logo=amazonredshift&logoColor=#8C4FFF)
+![S3](https://img.shields.io/badge/S3-%23181717.svg?style=for-the-badge&logo=amazons3&logoColor=#569A31)
+![SQS](https://img.shields.io/badge/SQS-%23181717.svg?style=for-the-badge&logo=amazonsqs&logoColor=#FF4F8B)
+![Fargate](https://img.shields.io/badge/Fargate-%230A0FFF.svg?style=for-the-badge&logo=awsfargate&logoColor=#FF9900)
 ![Lambda](https://img.shields.io/badge/Lambda-%23026AA7.svg?style=for-the-badge&logo=awslambda&logoColor=#FF9900)
 
 ---
