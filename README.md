@@ -32,10 +32,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### Programming Languages & Technical Skills
-
-
-
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-%23026AA7.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=#FF4F8B)
 ![DynamoDb](https://img.shields.io/badge/DynamoDb-%23026AA7.svg?style=for-the-badge&logo=amazondynamodb&logoColor=#4053D6)
 ![EC2](https://img.shields.io/badge/EC2-%23026AA7.svg?style=for-the-badge&logo=amazonec2&logoColor=#FF9900)
@@ -68,6 +64,7 @@
 ![Zigbee](https://img.shields.io/badge/Zigbee-%23026AA7.svg?style=for-the-badge&logo=zigbee&logoColor=#EB0443)
 ![Esp](https://img.shields.io/badge/Esp-%23026AA7.svg?style=for-the-badge&logo=espressif&logoColor=#E7352C)
 ![KiCAD](https://img.shields.io/badge/KiCAD-%23026AA7.svg?style=for-the-badge&logo=kicad&logoColor=#314CB0)
+![Xilinx](https://img.shields.io/badge/xilinx-%23026AA7.svg?style=for-the-badge&logo=xilinx&logoColor=#E01F27)
 
 ### Stats
 
