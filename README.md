@@ -6,6 +6,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&color=%23ABC3D6)
 ![AstonMartin](https://img.shields.io/badge/Aston%20Martin-%23363636.svg?style=for-the-badge&logo=astonmartin&logoColor=white&color=%23A9C1D4)
 ![Rust](https://img.shields.io/badge/Rust-%23026AA7.svg?style=for-the-badge&logo=rust&logoColor=white&color=%23A7BFD1)
+
 ![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-%23326ce5.svg?style=for-the-badge&logoColor=white&color=%23A6BDD0)
 ![EDD](https://img.shields.io/badge/Event%20Driven%20Design-%235835CC.svg?style=for-the-badge&logoColor=white&color=%23A4BCCE)
 ![EventSourcing](https://img.shields.io/badge/Event%20Sourcing-%23363636.svg?style=for-the-badge&logoColor=white&color=%23A2BACC)
