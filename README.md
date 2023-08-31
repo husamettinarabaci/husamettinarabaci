@@ -218,21 +218,21 @@
 
 ### I'm also interested in Electronic Design and Development
 
-![Altium](https://img.shields.io/badge/Altium-%23026AA7.svg?style=for-the-badge&logo=altiumdesigner&logoColor=#A5915F)
-![Eagle](https://img.shields.io/badge/Eagle-%23026AA7.svg?style=for-the-badge&logo=eagle&logoColor=#0072EF)
-![EasyEda](https://img.shields.io/badge/EasyEda-%23026AA7.svg?style=for-the-badge&logo=easyeda&logoColor=#1765F6)
-![Bt](https://img.shields.io/badge/Bt-%23026AA7.svg?style=for-the-badge&logo=bluetooth&logoColor=#0082FC)
-![Arm](https://img.shields.io/badge/Arm-%23026AA7.svg?style=for-the-badge&logo=arm&logoColor=#0091BD)
+![Altium](https://img.shields.io/badge/Altium-%23326ce5.svg?style=for-the-badge&logo=altiumdesigner&logoColor=#A5915F)
+![Eagle](https://img.shields.io/badge/Eagle-%23DD0031.svg?style=for-the-badge&logo=eagle&logoColor=#0072EF)
+![EasyEda](https://img.shields.io/badge/EasyEda-%23DD0031.svg?style=for-the-badge&logo=easyeda&logoColor=#1765F6)
+![Bt](https://img.shields.io/badge/Bt-%23316192.svg?style=for-the-badge&logo=bluetooth&logoColor=#0082FC)
+![Arm](https://img.shields.io/badge/Arm-%235835CC.svg?style=for-the-badge&logo=arm&logoColor=#0091BD)
 ![Keil](https://img.shields.io/badge/Keil-%23026AA7.svg?style=for-the-badge&logo=armkeil&logoColor=#394049)
-![Qemu](https://img.shields.io/badge/Qemu-%23026AA7.svg?style=for-the-badge&logo=qemu&logoColor=#FF6600)
-![Qt](https://img.shields.io/badge/Qt-%23026AA7.svg?style=for-the-badge&logo=qt&logoColor=#41CD52)
-![Rpi](https://img.shields.io/badge/Rpi-%23026AA7.svg?style=for-the-badge&logo=raspberrypi&logoColor=#A22846)
-![Stm](https://img.shields.io/badge/Stm-%23026AA7.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=#03234B)
-![LabView](https://img.shields.io/badge/LabView-%23026AA7.svg?style=for-the-badge&logo=labview&logoColor=#FFDB00)
-![Zigbee](https://img.shields.io/badge/Zigbee-%23026AA7.svg?style=for-the-badge&logo=zigbee&logoColor=#EB0443)
-![Esp](https://img.shields.io/badge/Esp-%23026AA7.svg?style=for-the-badge&logo=espressif&logoColor=#E7352C)
-![KiCAD](https://img.shields.io/badge/KiCAD-%23026AA7.svg?style=for-the-badge&logo=kicad&logoColor=#314CB0)
-![Xilinx](https://img.shields.io/badge/xilinx-%23026AA7.svg?style=for-the-badge&logo=xilinx&logoColor=#E01F27)
+![Qemu](https://img.shields.io/badge/Qemu-%23363636.svg?style=for-the-badge&logo=qemu&logoColor=#FF6600)
+![Qt](https://img.shields.io/badge/Qt-%23FF9900.svg?style=for-the-badge&logo=qt&logoColor=#41CD52)
+![Rpi](https://img.shields.io/badge/Rpi-%230db7ed.svg?style=for-the-badge&logo=raspberrypi&logoColor=#A22846)
+![Stm](https://img.shields.io/badge/Stm-%23121011.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=#03234B)
+![LabView](https://img.shields.io/badge/LabView-%232671E5.svg?style=for-the-badge&logo=labview&logoColor=#FFDB00)
+![Zigbee](https://img.shields.io/badge/Zigbee-%230A0FFF.svg?style=for-the-badge&logo=zigbee&logoColor=#EB0443)
+![Esp](https://img.shields.io/badge/Esp-%23181717.svg?style=for-the-badge&logo=espressif&logoColor=#E7352C)
+![KiCAD](https://img.shields.io/badge/KiCAD-%23181717.svg?style=for-the-badge&logo=kicad&logoColor=#314CB0)
+![Xilinx](https://img.shields.io/badge/xilinx-%23121011.svg?style=for-the-badge&logo=xilinx&logoColor=#E01F27)
 
 ---
 
