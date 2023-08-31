@@ -244,4 +244,4 @@
     
 - 💬 if there's anything you need don't hesitate to ask
 
-Note: Thanks a lot ![Sümeyye Dilara DOĞAN](https://github.com/Sddilora)
+Designed by ![Sümeyye Dilara DOĞAN](https://github.com/Sddilora) - Thanks a lot
