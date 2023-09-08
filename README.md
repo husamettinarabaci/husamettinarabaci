@@ -236,10 +236,6 @@
 
 ---
 
-  ![Hüsamettin's GitHub stats](https://github-readme-stats-husamettinarabaci.vercel.app/api?username=husamettinarabaci&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
----
-
 - 📫 How to reach me: 
   - 📫 info@husamettinarabaci.com
     
