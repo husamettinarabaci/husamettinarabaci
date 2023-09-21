@@ -234,9 +234,6 @@
 ![KiCAD](https://img.shields.io/badge/KiCAD-%23181717.svg?style=for-the-badge&logo=kicad&logoColor=white&color=%237FA9AE)
 ![Xilinx](https://img.shields.io/badge/xilinx-%23121011.svg?style=for-the-badge&logo=xilinx&logoColor=white&color=%237FA89A)
 
----
-
-  ![Hüsamettin's GitHub stats](https://github-readme-stats-husamettinarabaci.vercel.app/api?username=husamettinarabaci&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
