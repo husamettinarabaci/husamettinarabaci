@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 ---
-- 🔭 I’m currently working on Golang , Golang and <b>Golang</b> all-day.
+- 🔭 I’m currently working on <b>Golang</b> , Quantum Computing and Rust all-day.
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&color=%239BB3C3)
 ![AstonMartin](https://img.shields.io/badge/Aston%20Martin-%23363636.svg?style=for-the-badge&logo=astonmartin&logoColor=white&color=%239BB3C3)
