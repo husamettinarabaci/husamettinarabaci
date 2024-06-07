@@ -11,3 +11,5 @@
 🤝 Open to collaboration on groundbreaking projects at the intersection of technology and healthcare.
 
 Let's connect and innovate together!
+
+- info@husamettinarabaci.com
