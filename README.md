@@ -13,3 +13,4 @@
 Let's connect and innovate together!
 
 - info@husamettinarabaci.com
+- https://www.linkedin.com/in/husamettin-arabaci
