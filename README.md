@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-> 🦀 Rust Developer | ⚙️ Software Artisan | 🧠 System Thinker | 🐹 Former Gopher
+> 🦀 Rust Developer | ⚙️ Software Artisan | 🧠 System Thinker | 🔌 Embedded & IoT Architect | 🐹 Former Gopher
 
 ---
 
