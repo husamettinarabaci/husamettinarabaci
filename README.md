@@ -1,6 +1,6 @@
-# 👋 Hey there! I'm Hüsamettin Arabacı
+# 👋 Hey there!
 
-> ⚙️ Software Artisan | 🧠 System Thinker | 🦀 Rustacean-in-Training | 🐹 Gopher-at-Heart
+> 🦀 Rust Developer | ⚙️ Software Artisan | 🧠 System Thinker | 🐹 Former Gopher
 
 ---
 
@@ -8,11 +8,13 @@
 
 Hi, I'm **Husamettin**, a software developer with over **20 years of experience** designing and building systems where **software meets hardware** — and where ideas meet the real world.
 
-I’ve architected systems from low-level socket layers to cloud-scale microservices. Whether it’s **real-time communication**, **IoT**, **cryptography**, or **embedded design**, I’ve probably built something for it.
+These days, I'm focused on building high-performance, reliable, and safe software with **Rust**.  
+🦀 I’m passionate about the language's fearless approach to systems programming, and it's now the **main driver** behind my work.
 
-And for the past **10+ years**, my main tool of choice was **Go**.  
-🐹 I love its simplicity, power, and pragmatic design.  
-It’s my second brain for writing clean, reliable services.
+Before Rust, I spent over a decade writing production software in **Go**.  
+🐹 I loved its simplicity, speed, and clean concurrency model — and it shaped how I approach scalable system design today.
+
+Whether it’s **real-time communication**, **IoT**, **cryptography**, or **embedded systems**, I’ve architected and implemented systems that connect the abstract with the practical.
 
 ---
 
@@ -34,20 +36,24 @@ Rust challenges me. And that’s what makes it awesome.
 
 ## 🚧 Featured Project: [hexaFn](https://github.com/hTuneSys/hexaFn)
 
-> A programmable, event-driven function pipeline built on the **6F Lifecycle Flow**:
+> A programmable, event-driven function pipeline built entirely in **Rust**, based on the **6F Lifecycle Flow**:
 
 ### `Feed → Filter → Format → Function → Forward → Feedback`
 
 🔗 **Website:** [hexafn.com](https://hexafn.com)
 
-🧠 `hexaFn` blends my Go background in scalable system design with Rust’s performance & type safety — and it’s just getting started.
+🧠 `hexaFn` is my flagship Rust project — a fully modular, extensible pipeline framework designed to experiment with event-driven and reactive systems at scale.
+
+It merges:
+- My background in **Go-based distributed systems**, and
+- The performance and safety of modern **Rust programming**
 
 Use it to build:
 - ✨ Reactive function chains
 - 🧩 Modular micro-pipelines
-- 🧠 Experimental computing flows for health-tech & R&D
+- 🔬 High-performance processing flows for **health-tech**, **data transformation**, and **signal processing**
 
-Contributions welcome. Feedback loved. Innovation expected.
+> Built in Rust. Designed for extensibility. Open to collaboration.
 
 ---
 
