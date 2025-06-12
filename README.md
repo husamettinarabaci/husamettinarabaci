@@ -1,71 +1,74 @@
-# 👋 Hello there! I'm Hüsamettin Arabacı
+# 👋 Hey there! I'm Hüsamettin Arabacı
 
-> 🧠 Code, Circuits & Curiosity — building smarter tools for a better tomorrow.
-
----
-
-## 👨‍💻 About Me
-
-Hi, I’m **Husamettin**, a software developer with **20+ years of experience** crafting technology solutions that bridge **hardware, software, and the human experience**.
-
-From **microservices** and **IoT** to **cryptography**, **real-time communications**, and **electronic circuit design**, I’ve worn many hats in the tech world — and I’m still wearing them with pride.
-
-These days though?  
-🦀 **I’m all in on Rust.**
-
-### ⚡ What I’m up to now
-
-- 🌱 **Diving deep into Rust** — performance, safety, and joy in one language!
-- 🔧 Contributing to **open-source** projects that make tools more useful and elegant.
-- 🧪 Exploring **quantum computing** and **electromagnetic wave technologies** for next-gen healthcare.
-- 🚀 Building [**hexaFn**](https://hexafn.com) — a growing initiative merging Rust, science, and software craftsmanship.
+> ⚙️ Software Artisan | 🧠 System Thinker | 🦀 Rustacean-in-Training | 🐹 Gopher-at-Heart
 
 ---
 
-## 🦀 Why Rust?
+## 🧬 Who Am I?
 
-I’ve worked with many languages (Go, C, Python...), but Rust?  
-It **clicked**.  
-It challenges you, rewards you, and makes you write **honest, fast, reliable code**.  
-Every day I’m learning something new — and contributing back wherever I can.
+Hi, I'm **Husamettin**, a software developer with over **20 years of experience** designing and building systems where **software meets hardware** — and where ideas meet the real world.
 
-📚 I believe **knowledge grows by sharing**, so I’m using GitHub to:
-- ✍️ Share experiments
-- 🛠 Build real-world tools
-- 🤝 Collaborate with curious minds like you
+I’ve architected systems from low-level socket layers to cloud-scale microservices. Whether it’s **real-time communication**, **IoT**, **cryptography**, or **embedded design**, I’ve probably built something for it.
+
+And for the past **10+ years**, my main tool of choice was **Go**.  
+🐹 I love its simplicity, power, and pragmatic design.  
+It’s my second brain for writing clean, reliable services.
 
 ---
 
-## 🔭 Projects & Initiatives
+## 🦀 Rust & The Journey Ahead
 
-### 🎯 [hexaFn](https://github.com/hTuneSys/hexaFn)
-A modular Rust-based framework designed for **high-performance computing**, **system-level tooling**, and **applied scientific research** — especially in **health-tech** and **signal processing**.
+Lately, I’ve fallen in love with **Rust**.
 
-> Built with passion. Growing with community.  
-> See more at [hexafn.com](https://hexafn.com)
+Its promise of **safety without compromise**, **zero-cost abstractions**, and **modern concurrency** is incredibly inspiring. I’m now using Rust for:
 
----
+- ⚙️ Systems-level programming
+- 📦 Reusable libraries and tooling
+- 🧪 Scientific computing & signal processing
+- 🤝 Open-source contributions
+- 🧠 Pushing myself to grow every single day
 
-## 🤝 Let’s Connect
-
-- 📫 **Email:** [info@husamettinarabaci.com](mailto:info@husamettinarabaci.com)  
-- 🌍 **Website:** [hexafn.com](https://hexafn.com)  
-- 🧪 Want to build something wild and useful? Let’s chat!
+Rust challenges me. And that’s what makes it awesome.
 
 ---
 
-## 💬 Fun Facts
+## 🚧 Featured Project: [hexaFn](https://github.com/hTuneSys/hexaFn)
 
-- 🎛 I’ve designed both software **and** hardware from the ground up.
-- 📡 My work spans industries: **telecom, embedded systems, healthcare, R&D**.
-- 🧑‍🏫 I’ve mentored countless developers — and still do.
-- 🤓 I love pushing boundaries where **deep tech** meets **real-world problems**.
+> A programmable, event-driven function pipeline built on the **6F Lifecycle Flow**:
+
+### `Feed → Filter → Format → Function → Forward → Feedback`
+
+🔗 **Website:** [hexafn.com](https://hexafn.com)
+
+🧠 `hexaFn` blends my Go background in scalable system design with Rust’s performance & type safety — and it’s just getting started.
+
+Use it to build:
+- ✨ Reactive function chains
+- 🧩 Modular micro-pipelines
+- 🧠 Experimental computing flows for health-tech & R&D
+
+Contributions welcome. Feedback loved. Innovation expected.
 
 ---
 
-> _“Build what matters. Share what helps. Stay curious.”_  
-> — Husamettin
+## 📫 Let’s Connect
+
+- 📬 **Email:** [info@husamettinarabaci.com](mailto:info@husamettinarabaci.com)  
+- 🌐 **Website:** [hexafn.com](https://hexafn.com)  
+- 🧰 **GitHub:** [github.com/hTuneSys/hexaFn](https://github.com/hTuneSys/hexaFn)
+
+I’m always open to interesting ideas, deep tech conversations, and meaningful collaborations.
 
 ---
 
-![Rustacean](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg)
+## 🧠 Trivia & Passions
+
+- 🧑‍🏫 I’ve mentored dozens of developers and still do
+- 💡 I thrive on turning complex problems into simple systems
+- 🔬 Deeply interested in **quantum computing**, **electromagnetic wave theory**, and **applied healthcare tech**
+- 🛠 I still build things the hard way – just smarter each time
+
+---
+
+> _“Craft. Contribute. Care.”_  
+> — Husamettin Arabacı
