@@ -1,0 +1,15 @@
+{
+  "name": "husamettinarabaci",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "husamettinarabaci_bg.wasm",
+    "husamettinarabaci.js",
+    "husamettinarabaci.d.ts"
+  ],
+  "main": "husamettinarabaci.js",
+  "types": "husamettinarabaci.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
