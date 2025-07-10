@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>husamettinarabaci.com</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+    <link rel="manifest" href="assets/site.webmanifest">
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+</head>
+<body>
+    <div class="cover-bg">
+        <canvas id="oscilloscope-canvas"></canvas>
+    </div>
+    <div class="main-area">
+        <aside class="profile-section">
+            <img class="profile-pic" src="assets/profile.jpg" alt="Profile Photo">
+            <div class="info-box">
+                <h2>Husamettin ARABACI</h2>
+                <div class="username"><a href="https://github.com/husamettinarabaci" target="_blank" style="color:inherit;text-decoration:underline;">husamettinarabaci</a> · he/him</div>
+                <div class="headline">🦀 Rust & Go dev | ⚙️ System architect | 🎯 Creator of hexaFn</div>
+                <div class="summary">20+ yrs building backend, embedded & event-driven systems<br>Clean code, strong flow.</div>
+            </div>
+            <div class="meta-box">
+                <ul class="meta-list">
+                    <li>🐙 <a href="https://github.com/hTuneSys" target="_blank">@hTuneSys</a></li>
+                    <li>📍 Ankara / Turkey</li>
+                    <li>✉️ <a href="mailto:info@husamettinarabaci.com">info@husamettinarabaci.com</a></li>
+                    <li>🌐 <a href="https://www.hexatune.com" target="_blank">www.hexatune.com</a></li>
+                    <li>🔗 <a href="https://www.linkedin.com/in/husamettin-arabaci" target="_blank">in/husamettin-arabaci</a></li>
+                </ul>
+            </div>
+            <div class="logo-section">
+                <a href="https://hexafn.com" target="_blank">
+                    <img src="assets/hexaFn-logo.png" alt="hexaFn Logo" class="hexa-logo">
+                </a>
+            </div>
+        </aside>
+        <main class="main-content">
+            <div class="about-section">
+                <div class="about-skills-row">
+                    🦀 Rust Developer | ⚙️ Software Artisan | 🧠 System Thinker | 🔌 Embedded & IoT Architect | 🐹 Former Gopher
+                </div>
+                <div class="about-extra-row">
+                    <h3>🧬 Who Am I?</h3>
+                    <p>Hi, I'm Husamettin, a software developer with over 20 years of experience designing and building systems where software meets hardware — and where ideas meet the real world.</p>
+                    <p>These days, I'm focused on building high-performance, reliable, and safe software with Rust.<br>
+                    🦀 I’m passionate about the language's fearless approach to systems programming, and it's now the main driver behind my work.</p>
+                    <p>Before Rust, I spent over a decade writing production software in Go.<br>
+                    🐹 I loved its simplicity, speed, and clean concurrency model — and it shaped how I approach scalable system design today.</p>
+                    <p>Whether it’s real-time communication, IoT, cryptography, or embedded systems, I’ve architected and implemented systems that connect the abstract with the practical.</p>
+                </div>
+                <hr class="about-divider">
+                <div class="about-extra-row">
+                    <h3>🦀 Rust & The Journey Ahead</h3>
+                    <p>Lately, I’ve fallen in love with Rust.</p>
+                    <p>Its promise of safety without compromise, zero-cost abstractions, and modern concurrency is incredibly inspiring. I’m now using Rust for:</p>
+                    <ul>
+                        <li>⚙️ Systems-level programming</li>
+                        <li>📦 Reusable libraries and tooling</li>
+                        <li>🧪 Scientific computing & signal processing</li>
+                        <li>🤝 Open-source contributions</li>
+                        <li>🧠 Pushing myself to grow every single day</li>
+                    </ul>
+                    <p>Rust challenges me. And that’s what makes it awesome.</p>
+                </div>
+            </div>
+            <div class="footer-row">
+                <div class="footer-col">
+                    <a href="https://rustexam.com" target="_blank">
+                        <img src="assets/rustexam-banner.png" alt="Rust Exam Banner" class="footer-img">
+                    </a>
+                </div>
+                <div class="footer-col">
+                    <a href="https://godevpath.com" target="_blank">
+                        <img src="assets/godevpath-banner.png" alt="Go Dev Path Banner" class="footer-img">
+                    </a>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script type="module" src="wasm/oscilloscope.js"></script>
+</body>
+</html>

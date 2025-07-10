@@ -1,0 +1,10 @@
+{
+  "name": "husamettinarabaci",
+  "version": "0.1.0",
+  "scripts": {
+    "build:wasm": "wasm-pack build --target web --out-dir wasm"
+  },
+  "devDependencies": {
+    "wasm-pack": "^0.12.1"
+  }
+}
