@@ -1,80 +1,75 @@
-# 👋 Hey there!
+# Husamettin Arabacı
 
-> 🦀 Rust Developer | ⚙️ Software Artisan | 🧠 System Thinker | 🔌 Embedded & IoT Architect | 🐹 Former Gopher
-
----
-
-## 🧬 Who Am I?
-
-Hi, I'm **Husamettin**, a software developer with over **20 years of experience** designing and building systems where **software meets hardware** — and where ideas meet the real world.
-
-These days, I'm focused on building high-performance, reliable, and safe software with **Rust**.  
-🦀 I’m passionate about the language's fearless approach to systems programming, and it's now the **main driver** behind my work.
-
-Before Rust, I spent over a decade writing production software in **Go**.  
-🐹 I loved its simplicity, speed, and clean concurrency model — and it shaped how I approach scalable system design today.
-
-Whether it’s **real-time communication**, **IoT**, **cryptography**, or **embedded systems**, I’ve architected and implemented systems that connect the abstract with the practical.
+🛠 Distributed Systems & Reliability Engineer (Rust)  
+Designing systems that remain correct under retries, crashes and network disorder.
 
 ---
 
-## 🦀 Rust & The Journey Ahead
+## What I Do
 
-Lately, I’ve fallen in love with **Rust**.
+I work on reliability-critical backend infrastructure and real-time data processing systems.
 
-Its promise of **safety without compromise**, **zero-cost abstractions**, and **modern concurrency** is incredibly inspiring. I’m now using Rust for:
+My focus is not features — it is failure behavior.
 
-- ⚙️ Systems-level programming
-- 📦 Reusable libraries and tooling
-- 🧪 Scientific computing & signal processing
-- 🤝 Open-source contributions
-- 🧠 Pushing myself to grow every single day
+I design systems that continue to operate correctly when:
 
-Rust challenges me. And that’s what makes it awesome.
+- events arrive multiple times
+- ordering is broken
+- processes crash mid-execution
+- network partitions occur
+- recovery must be deterministic
 
----
+Typical domains I worked in:
 
-## 🚧 Featured Project: [hexaFn](https://github.com/hTuneSys/hexaFn)
-
-> A programmable, event-driven function pipeline built entirely in **Rust**, based on the **6F Lifecycle Flow**:
-
-### `Feed → Filter → Format → Function → Forward → Feedback`
-
-🔗 **Website:** [hexafn.com](https://hexafn.com)
-
-🧠 `hexaFn` is my flagship Rust project — a fully modular, extensible pipeline framework designed to experiment with event-driven and reactive systems at scale.
-
-It merges:
-- My background in **Go-based distributed systems**, and
-- The performance and safety of modern **Rust programming**
-
-Use it to build:
-- ✨ Reactive function chains
-- 🧩 Modular micro-pipelines
-- 🔬 High-performance processing flows for **health-tech**, **data transformation**, and **signal processing**
-
-> Built in Rust. Designed for extensibility. Open to collaboration.
+- real-time telemetry ingestion
+- event-driven processing pipelines
+- distributed coordination systems
+- high-throughput data streams
+- embedded communication networks
 
 ---
 
-## 📫 Let’s Connect
+## Engineering Focus
 
-- 📬 **Email:** [info@husamettinarabaci.com](mailto:info@husamettinarabaci.com)  
-- 🌐 **Website:** [hexafn.com](https://hexafn.com)  
-- 🧰 **GitHub:** [github.com/hTuneSys/hexaFn](https://github.com/hTuneSys/hexaFn)
-
-I’m always open to interesting ideas, deep tech conversations, and meaningful collaborations.
-
----
-
-## 🧠 Trivia & Passions
-
-- 🧑‍🏫 I’ve mentored dozens of developers and still do
-- 💡 I thrive on turning complex problems into simple systems
-- 🔬 Deeply interested in **quantum computing**, **electromagnetic wave theory**, and **applied healthcare tech**
-- 🛠 I still build things the hard way – just smarter each time
+- Idempotent processing
+- Out-of-order event correction
+- Replayable state recovery
+- Split-brain prevention
+- Deterministic pipelines
+- Backpressure & batching strategies
 
 ---
 
-> _“Craft. Contribute. Care.”_  
-> — Husamettin Arabacı
+## Featured Project — hexaFn
+
+Experimental event-driven processing runtime written in Rust.
+
+Pipeline model:
+
+Feed → Filter → Transform → Execute → Forward → Feedback
+
+The goal is to explore deterministic data processing where systems remain correct even when:
+
+- events are duplicated
+- ordering is not guaranteed
+- workers restart at any moment
+
+Repository:  
+https://github.com/hTuneSys/hexaFn
+
+---
+
+## Tech
+
+Primary:
+Rust, PostgreSQL, Kafka, NATS, Linux
+
+Background:
+Go, networking systems, embedded communication, real-time processing
+
+---
+
+## Collaboration
+
+Interested in backend infrastructure and reliability problems,
+especially systems operating under continuous load.
