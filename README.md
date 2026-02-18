@@ -61,11 +61,7 @@ https://github.com/hTuneSys/hexaFn
 
 ## Tech
 
-Primary:
-Rust, PostgreSQL, Kafka, NATS, Linux
-
-Background:
-Go, networking systems, embedded communication, real-time processing
+Rust, networking systems, embedded communication, real-time processing
 
 ---
 
