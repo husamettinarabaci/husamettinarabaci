@@ -1,71 +1,75 @@
 # Husamettin Arabacı
 
-🛠 Distributed Systems & Reliability Engineer (Rust)  
-Designing systems that remain correct under retries, crashes and network disorder.
+## Distributed Systems Engineer (Rust) --- IoT, Streaming & Deterministic Processing
 
----
+I build reliability-critical IoT data platforms where correctness must
+hold under retries, crashes, and network disorder.
 
-## What I Do
+My work spans from edge communication systems and embedded constraints
+to high-throughput cloud streaming pipelines.
 
-I work on reliability-critical backend infrastructure and real-time data processing systems.
+I design systems that remain correct when:
 
-My focus is not features — it is failure behavior.
+-   events arrive multiple times\
+-   ordering is broken\
+-   processes crash mid-execution\
+-   network partitions occur\
+-   recovery must be deterministic
 
-I design systems that continue to operate correctly when:
+------------------------------------------------------------------------
 
-- events arrive multiple times
-- ordering is broken
-- processes crash mid-execution
-- network partitions occur
-- recovery must be deterministic
+## Focus Areas
 
-Typical domains I worked in:
+-   IoT telemetry ingestion & edge-to-cloud pipelines\
+-   Streaming architectures (Kafka / event-driven systems)\
+-   Idempotent processing & duplicate side-effect prevention\
+-   Out-of-order event correction\
+-   Transactional task orchestration\
+-   Split-brain prevention & coordination safety\
+-   Backpressure, batching & crash-safe recovery
 
-- real-time telemetry ingestion
-- event-driven processing pipelines
-- distributed coordination systems
-- high-throughput data streams
-- embedded communication networks
+------------------------------------------------------------------------
 
----
+## What I Care About
 
-## Engineering Focus
+I optimize for correctness before convenience.
 
-- Idempotent processing
-- Out-of-order event correction
-- Replayable state recovery
-- Split-brain prevention
-- Deterministic pipelines
-- Backpressure & batching strategies
+Systems I design:
 
----
+-   avoid silent data corruption\
+-   remain replayable after failure\
+-   bound inconsistency under load\
+-   separate side-effects from state transitions\
+-   treat distributed failure as a normal condition, not an edge case
 
-## Featured Project — hexaFn
+------------------------------------------------------------------------
 
-Experimental event-driven processing runtime written in Rust.
+## Selected Engineering Themes
 
-Pipeline model:
+-   Sharded streaming pipelines under continuous multi-Gbps telemetry\
+-   Temporal deduplication windows for high-frequency RF streams\
+-   Idempotent processing in distributed IoT transaction networks\
+-   Leader arbitration to eliminate split-brain failures\
+-   Ledger-based state modeling for deterministic reconciliation\
+-   Embedded protocol reverse engineering & distributed OTA propagation
+
+------------------------------------------------------------------------
+
+## Current Work
+
+### hexaFn --- Experimental Event-Driven Runtime (Rust)
+
+Pipeline Model:
 
 Feed → Filter → Transform → Execute → Forward → Feedback
 
-The goal is to explore deterministic data processing where systems remain correct even when:
+Designed to remain correct under:
 
-- events are duplicated
-- ordering is not guaranteed
-- workers restart at any moment
+-   duplicate events\
+-   non-guaranteed ordering\
+-   crash & restart cycles
 
-Repository:  
-https://github.com/hTuneSys/hexaFn
+------------------------------------------------------------------------
 
----
-
-## Tech
-
-Rust, networking systems, embedded communication, real-time processing
-
----
-
-## Collaboration
-
-Interested in backend infrastructure and reliability problems,
-especially systems operating under continuous load.
+If you work on IoT platforms, telemetry systems, or reliability-critical
+infrastructure --- let's connect.
