@@ -1,0 +1,134 @@
+/* Minimal, fast, GitHub Pages-friendly */
+:root{
+  --bg:#0b0f17;
+  --card:#0f172a;
+  --muted:#94a3b8;
+  --text:#e2e8f0;
+  --accent:#60a5fa;
+  --border: rgba(148,163,184,.18);
+  --shadow: 0 10px 30px rgba(0,0,0,.35);
+  --radius: 18px;
+  --max: 980px;
+}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+  background: radial-gradient(1200px 800px at 20% -10%, rgba(96,165,250,.18), transparent 55%),
+              radial-gradient(1000px 700px at 90% 0%, rgba(34,197,94,.10), transparent 60%),
+              var(--bg);
+  color:var(--text);
+  line-height:1.55;
+}
+
+a{color:var(--text); text-decoration:none}
+a:hover{color:var(--accent)}
+.container{
+  width: min(var(--max), calc(100% - 32px));
+  margin: 0 auto;
+}
+
+header{padding:40px 0 20px}
+.topbar{
+  display:flex; align-items:flex-start; justify-content:space-between; gap:16px;
+}
+.identity h1{margin:0; font-size:30px; letter-spacing:.2px}
+.subtitle{margin:6px 0 0; color:var(--muted); font-weight:600}
+.nav{display:flex; flex-wrap:wrap; gap:14px; padding-top:6px}
+.nav a{color:var(--muted); font-weight:600}
+.nav a:hover{color:var(--text)}
+
+.hero{margin-top:26px}
+.tagline{font-size:18px; color:var(--text); margin:0 0 14px}
+.cta{display:flex; gap:12px; flex-wrap:wrap; margin: 10px 0 18px}
+.button{
+  display:inline-flex; align-items:center; justify-content:center;
+  padding:10px 14px; border-radius: 12px;
+  border:1px solid var(--border);
+  background: rgba(15,23,42,.6);
+  box-shadow: 0 8px 18px rgba(0,0,0,.25);
+  font-weight:650;
+}
+.button.primary{
+  background: linear-gradient(135deg, rgba(96,165,250,.9), rgba(34,197,94,.55));
+  border-color: rgba(96,165,250,.35);
+  color:#071018;
+}
+.button.primary:hover{filter:brightness(1.03)}
+
+.chips{display:flex; gap:10px; flex-wrap:wrap}
+.chips span{
+  font-size:12px; font-weight:650;
+  color: rgba(226,232,240,.92);
+  border:1px solid var(--border);
+  background: rgba(15,23,42,.55);
+  padding:6px 10px;
+  border-radius: 999px;
+}
+
+main{padding:14px 0 48px}
+.card{
+  border: 1px solid var(--border);
+  background: linear-gradient(180deg, rgba(15,23,42,.88), rgba(15,23,42,.65));
+  border-radius: var(--radius);
+  padding: 18px 18px;
+  margin: 14px 0;
+  box-shadow: var(--shadow);
+}
+h2{margin:0 0 10px; font-size:18px; letter-spacing:.2px}
+h3{margin:0 0 8px; font-size:15px}
+p{margin:8px 0; color: rgba(226,232,240,.95)}
+.mono{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace}
+.note{color:var(--muted); font-size:13px}
+
+.grid{
+  display:grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 10px;
+}
+.item{
+  border:1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px;
+  background: rgba(2,6,23,.25);
+}
+.item ul{margin:10px 0 0 18px; color: rgba(226,232,240,.9)}
+.item li{margin:6px 0}
+
+.two-col{
+  display:grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+.bullets{margin:8px 0 0 18px}
+.bullets li{margin:6px 0}
+.details{margin-top:10px}
+.details summary{cursor:pointer; color: var(--muted); font-weight:650}
+.details summary:hover{color:var(--text)}
+
+.project{
+  display:flex; align-items:flex-start; justify-content:space-between; gap:14px; flex-wrap:wrap;
+}
+.project-links{display:flex; gap:10px; flex-wrap:wrap; padding-top:4px}
+
+.contact{
+  display:grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+.label{color:var(--muted); font-size:12px; font-weight:650; text-transform:uppercase; letter-spacing:.08em}
+.value{margin-top:4px; font-weight:650}
+.sep{opacity:.45; padding: 0 6px}
+.footer{padding: 18px 0 44px; color: var(--muted); display:flex; gap:10px; justify-content:center; flex-wrap:wrap}
+.footer-note{color: var(--muted); font-size: 13px}
+
+@media (max-width: 860px){
+  .grid{grid-template-columns: 1fr}
+  .two-col{grid-template-columns: 1fr}
+  .contact{grid-template-columns: 1fr}
+  .topbar{flex-direction:column}
+}
