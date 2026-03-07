@@ -1,63 +1,134 @@
 # Husamettin Arabacı
 
-## Distributed Systems Engineer (Rust) --- IoT, Streaming & Deterministic Processing
+## Distributed Systems Engineer (Rust)  
+### Inventor of Harmonic Field Synthesis Systems and Harmonic Tuning Engines
 
-I build reliability-critical IoT data platforms where correctness must
-hold under retries, crashes, and network disorder.
+I design reliability-critical distributed systems and signal generation technologies.
 
-My work spans from edge communication systems and embedded constraints
-to high-throughput cloud streaming pipelines.
+My work spans two domains:
 
-I design systems that remain correct when:
+• **deterministic distributed systems**  
+• **harmonic wave synthesis technologies**
 
--   events arrive multiple times\
--   ordering is broken\
--   processes crash mid-execution\
--   network partitions occur\
--   recovery must be deterministic
+I build systems that must remain correct under retries, crashes,
+network partitions, and disorder — both in **data infrastructure**
+and **wave-based signal generation platforms**.
 
-------------------------------------------------------------------------
+---
 
-## Focus Areas
+# **hexaTune**
 
--   IoT telemetry ingestion & edge-to-cloud pipelines\
--   Streaming architectures (Kafka / event-driven systems)\
--   Idempotent processing & duplicate side-effect prevention\
--   Out-of-order event correction\
--   Transactional task orchestration\
--   Split-brain prevention & coordination safety\
--   Backpressure, batching & crash-safe recovery
+I am the creator of **hexaTune**, a technology platform built around a
+new concept:
 
-------------------------------------------------------------------------
+**hexaTune is a Harmonic Field Synthesis System.**
 
-## What I Care About
+The system provides the infrastructure for generating structured
+harmonic wave patterns across multiple mediums including:
 
-I optimize for correctness before convenience.
+- acoustic signals  
+- electromagnetic fields  
+- photonic systems  
+- quantum fields  
+
+Devices built on this infrastructure operate as:
+
+**Harmonic Tuning Engines**
+
+These engines generate synchronized wave patterns derived from natural
+signals, recorded datasets, or synthesized harmonic models.
+
+The **hexaTune** ecosystem includes:
+
+- programmable signal generation hardware  
+- DSP synthesis pipelines  
+- embedded control protocols  
+- mobile and desktop control applications  
+- open APIs for external device integration  
+
+All core components are developed as open technology under the
+**hTuneSys** organization.
+
+---
+
+# hexaTeam
+
+Research and development for the platform is carried out by **hexaTeam**,
+an engineering group exploring new approaches to harmonic signal
+generation and distributed wave systems.
+
+The work sits at the intersection of:
+
+- signal processing  
+- frequency engineering  
+- distributed telemetry  
+- embedded systems  
+- electromagnetic technologies  
+- harmonic modeling  
+
+---
+
+# Distributed Systems Engineering
+
+Outside of **hexaTune**, my work focuses on reliability-critical
+distributed infrastructure.
+
+I build IoT data platforms where correctness must hold under:
+
+- duplicate events  
+- broken ordering  
+- network partitions  
+- crash & restart cycles  
+- deterministic recovery requirements  
+
+My systems are designed so that correctness survives real-world failure.
+
+---
+
+# Focus Areas
+
+- IoT telemetry ingestion & edge-to-cloud pipelines  
+- Streaming architectures (Kafka / event-driven systems)  
+- Idempotent processing & duplicate side-effect prevention  
+- Out-of-order event correction  
+- Transactional task orchestration  
+- Split-brain prevention & coordination safety  
+- Backpressure, batching & crash-safe recovery  
+
+---
+
+# Engineering Philosophy
+
+I optimize for **correctness before convenience**.
 
 Systems I design:
 
--   avoid silent data corruption\
--   remain replayable after failure\
--   bound inconsistency under load\
--   separate side-effects from state transitions\
--   treat distributed failure as a normal condition, not an edge case
+- avoid silent data corruption  
+- remain replayable after failure  
+- bound inconsistency under load  
+- separate side-effects from state transitions  
+- treat distributed failure as a normal condition  
 
-------------------------------------------------------------------------
+The same philosophy applies to the signal generation systems I design
+within the **hexaTune** ecosystem.
 
-## Selected Engineering Themes
+---
 
--   Sharded streaming pipelines under continuous multi-Gbps telemetry\
--   Temporal deduplication windows for high-frequency RF streams\
--   Idempotent processing in distributed IoT transaction networks\
--   Leader arbitration to eliminate split-brain failures\
--   Ledger-based state modeling for deterministic reconciliation\
--   Embedded protocol reverse engineering & distributed OTA propagation
+# Selected Engineering Themes
 
-------------------------------------------------------------------------
+- Sharded streaming pipelines under multi-Gbps telemetry  
+- Temporal deduplication windows for RF signal streams  
+- Idempotent processing in distributed IoT networks  
+- Leader arbitration to eliminate split-brain failures  
+- Ledger-based state modeling for deterministic reconciliation  
+- Embedded protocol reverse engineering  
+- Distributed OTA propagation systems  
 
-## Current Work
+---
 
-### hexaFn --- Experimental Event-Driven Runtime (Rust)
+# Current Work
+
+## hexaFn — Experimental Event-Driven Runtime (Rust)
 
 Pipeline Model:
 
@@ -65,11 +136,27 @@ Feed → Filter → Transform → Execute → Forward → Feedback
 
 Designed to remain correct under:
 
--   duplicate events\
--   non-guaranteed ordering\
--   crash & restart cycles
+- duplicate events  
+- non-guaranteed ordering  
+- crash & restart cycles  
 
-------------------------------------------------------------------------
+---
 
-If you work on IoT platforms, telemetry systems, or reliability-critical
-infrastructure --- let's connect.
+# Open Technology
+
+Core projects are developed under:
+
+https://github.com/hTuneSys
+ 
+---
+
+# Connect
+
+If you work on:
+
+- distributed systems  
+- IoT infrastructure  
+- signal generation technologies  
+- harmonic systems  
+
+let's connect.
