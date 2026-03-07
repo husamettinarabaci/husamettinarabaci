@@ -30,6 +30,11 @@ body {
   overflow-x: hidden;
 }
 
+#top,
+section[id] {
+  scroll-margin-top: 90px;
+}
+
 .page-glow {
   position: fixed;
   width: 28rem;
@@ -349,6 +354,11 @@ h1 span {
   padding-left: 20px;
   line-height: 1.8;
   color: var(--muted);
+}
+
+.contact-panel {
+  display: grid;
+  gap: 18px;
 }
 
 .site-footer {

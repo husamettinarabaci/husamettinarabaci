@@ -8,13 +8,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styles_fixed.css" />
 </head>
 <body>
+  <div id="top"></div>
   <div class="page-glow glow-a"></div>
   <div class="page-glow glow-b"></div>
 
-  <header class="site-header" id="top">
+  <header class="site-header">
     <div class="container header-row">
       <a class="brand" href="#top">
         <span class="brand-mark">HA</span>
@@ -226,9 +227,29 @@
         </article>
       </div>
     </section>
+
+    <section class="container section" id="contact">
+      <div class="section-heading">
+        <p class="eyebrow">Contact</p>
+        <h2>Connect</h2>
+      </div>
+
+      <div class="panel contact-panel">
+        <p>
+          I work at the intersection of distributed systems engineering,
+          IoT infrastructure, streaming architectures, and harmonic field technologies.
+        </p>
+
+        <div class="contact-links">
+          <a class="button button-primary" href="https://github.com/husamettinarabaci" target="_blank" rel="noreferrer">Personal GitHub</a>
+          <a class="button button-secondary" href="https://github.com/hTuneSys" target="_blank" rel="noreferrer">hTuneSys</a>
+          <a class="button button-secondary" href="https://husamettinarabaci.com/" target="_blank" rel="noreferrer">Website</a>
+        </div>
+      </div>
+    </section>
   </main>
 
-  <footer class="site-footer" id="contact">
+  <footer class="site-footer">
     <div class="container footer-row">
       <div>
         <h3>Husamettin Arabaci</h3>
