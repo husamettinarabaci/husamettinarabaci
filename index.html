@@ -1,232 +1,246 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Husamettin Arabaci — Distributed Systems & IoT Platform Engineer (Rust)</title>
-  <meta name="description" content="Reliability-critical distributed systems for IoT telemetry and streaming: deterministic recovery, idempotency, and correctness under failure." />
-  <meta property="og:title" content="Husamettin Arabaci — Distributed Systems & IoT Platform Engineer (Rust)" />
-  <meta property="og:description" content="I build reliability-critical IoT data platforms where correctness holds under retries, crashes, and network disorder." />
-  <meta property="og:type" content="website" />
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%9B%A0%EF%B8%8F%3C/text%3E%3C/svg%3E">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Husamettin Arabaci — Distributed Systems Engineer (Rust), inventor of Harmonic Field Synthesis Systems and Harmonic Tuning Engines." />
+  <title>Husamettin Arabaci — Inventor & Distributed Systems Engineer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header class="container">
-    <div class="topbar">
-      <div class="identity">
-        <h1>Husamettin Arabaci</h1>
-        <p class="subtitle">Distributed Systems &amp; IoT Platform Engineer (Rust)</p>
-      </div>
+  <div class="page-glow glow-a"></div>
+  <div class="page-glow glow-b"></div>
+
+  <header class="site-header" id="top">
+    <div class="container header-row">
+      <a class="brand" href="#top">
+        <span class="brand-mark">HA</span>
+        <span class="brand-text">Husamettin Arabaci</span>
+      </a>
+
       <nav class="nav">
-        <a href="#work">Work</a>
-        <a href="#focus">Focus</a>
-        <a href="#projects">Projects</a>
+        <a href="#about">About</a>
+        <a href="#inventor">Inventor</a>
+        <a href="#engineering">Engineering</a>
+        <a href="#ecosystem">Ecosystem</a>
         <a href="#contact">Contact</a>
       </nav>
     </div>
-
-    <div class="hero">
-      <p class="tagline">
-        I build systems that stay <strong>correct</strong> when reality happens:
-        retries, crashes, out-of-order delivery, and network partitions.
-      </p>
-      <div class="cta">
-        <a class="button primary" href="#contact">Get in touch</a>
-        <a class="button" href="#work">View highlights</a>
-      </div>
-
-      <div class="chips" aria-label="keywords">
-        <span>Rust</span>
-        <span>Distributed Systems</span>
-        <span>IoT Telemetry</span>
-        <span>Streaming</span>
-        <span>Deterministic Recovery</span>
-        <span>Idempotency</span>
-      </div>
-    </div>
   </header>
 
-  <main class="container">
-    <section class="card" id="about">
-      <h2>About</h2>
-      <p>
-        I design reliability-critical backend infrastructure and real-time processing pipelines—often at nationwide scale—
-        where correctness must hold under retries, crashes, and network disorder.
-      </p>
-      <p>
-        My focus is deterministic processing: preventing silent data corruption, eliminating duplicate side-effects,
-        and enabling crash-safe recovery and replay in production.
-      </p>
-    </section>
+  <main>
+    <section class="hero container">
+      <div class="hero-copy">
+        <p class="eyebrow">Distributed Systems Engineer (Rust)</p>
+        <h1>Inventor of <span>Harmonic Field Synthesis Systems</span> and <span>Harmonic Tuning Engines</span>.</h1>
+        <p class="lead">
+          I design reliability-critical distributed systems and signal generation technologies,
+          bridging deterministic processing, IoT infrastructure, and next-generation harmonic systems.
+        </p>
 
-    <section class="card" id="work">
-      <h2>Selected Engineering Highlights</h2>
-      <div class="grid">
-        <article class="item">
-          <h3>Sharded media pipeline</h3>
-          <p>
-            Re-architected sequential video analysis into a sharded parallel pipeline
-            (receiver → analyzer → uploader) with per-channel ownership and file-level locking.
-          </p>
-          <ul>
-            <li>Backlog: 60+ min → ~5 min</li>
-            <li>Storage: 6.48 TB/day → 540 GB/day</li>
-            <li>Continuous stream: 0.6 Gbps</li>
-          </ul>
-        </article>
-
-        <article class="item">
-          <h3>Telemetry detection at scale</h3>
-          <p>
-            Designed a stateful streaming detection architecture for nationwide network telemetry
-            (~4 Tbps across a 100-node cluster) with session tracking and a Kafka rule engine.
-          </p>
-          <ul>
-            <li>Botnet C2 identification: &lt;60s</li>
-            <li>Incidents: ~100–200/month → ~10K/month</li>
-          </ul>
-        </article>
-
-        <article class="item">
-          <h3>Temporal deduplication window</h3>
-          <p>
-            Designed temporal deduplication for high-frequency RF streams (8K pkt/s across 1000 channels),
-            aggregating packets per frame and selecting the highest-confidence signal.
-          </p>
-          <ul>
-            <li>DB writes reduced ~80%</li>
-            <li>Accuracy improved 6×</li>
-          </ul>
-        </article>
-
-        <article class="item">
-          <h3>Crash-safe task orchestration</h3>
-          <p>
-            Replaced a volatile Redis queue with a durable Postgres-backed task ledger, adding transactional task claiming
-            and semaphore-based rate limiting to prevent lost work on crashes.
-          </p>
-          <ul>
-            <li>Parallel processing: 10-item batches → 100 concurrent tasks</li>
-            <li>Eliminated queue-related data loss</li>
-          </ul>
-        </article>
-
-        <article class="item">
-          <h3>Consistency under concurrency</h3>
-          <p>
-            Fixed real-time counter inconsistencies in high-traffic telecom monitoring by introducing queued aggregation
-            with atomic batched writes.
-          </p>
-          <ul>
-            <li>~3M events/day (peaks ~1M in 2 hours)</li>
-            <li>Write frequency reduced 100×</li>
-            <li>Deviation bounded to &lt;100 during peak load</li>
-          </ul>
-        </article>
-
-        <article class="item">
-          <h3>Split-brain prevention</h3>
-          <p>
-            Resolved a split-brain failure in an active-active control system by introducing external epoch-based leader
-            arbitration to ensure a single authoritative writer under network partitions.
-          </p>
-        </article>
-      </div>
-    </section>
-
-    <section class="card" id="focus">
-      <h2>Engineering Focus</h2>
-      <div class="two-col">
-        <div>
-          <h3>Correctness primitives</h3>
-          <ul class="bullets">
-            <li>Idempotent processing &amp; deduplication</li>
-            <li>Out-of-order event correction</li>
-            <li>Monotonic state transitions (sequence/version validation)</li>
-            <li>Deterministic recovery &amp; replayable pipelines</li>
-          </ul>
+        <div class="hero-actions">
+          <a class="button button-primary" href="https://github.com/husamettinarabaci" target="_blank" rel="noreferrer">View GitHub</a>
+          <a class="button button-secondary" href="#inventor">Explore hexaTune</a>
         </div>
-        <div>
-          <h3>Operational reliability</h3>
-          <ul class="bullets">
-            <li>Backpressure, batching &amp; rate limiting</li>
-            <li>Crash-safe orchestration (durable ledgers)</li>
-            <li>Split-brain prevention &amp; coordination safety</li>
-            <li>Side-effect isolation (async pipelines)</li>
-          </ul>
-        </div>
-      </div>
 
-      <details class="details">
-        <summary>Edge/embedded experience (selected)</summary>
-        <ul class="bullets">
-          <li>LoRa multi-hop messaging fragmentation (51B frame constraint) with deterministic reassembly.</li>
-          <li>Reverse engineered proprietary radio protocol for distributed OTA propagation and topology mapping.</li>
-          <li>Recovered rare hardware boot transition failures across ~3000 field devices via autonomous power control.</li>
+        <ul class="hero-tags" aria-label="Core focus areas">
+          <li>IoT</li>
+          <li>Streaming</li>
+          <li>Deterministic Processing</li>
+          <li>Rust</li>
+          <li>Harmonic Systems</li>
+          <li>Open Technology</li>
         </ul>
-      </details>
-    </section>
-
-    <section class="card" id="projects">
-      <h2>Featured Project</h2>
-      <div class="project">
-        <div>
-          <h3>hexaFn — Experimental event-driven runtime (Rust)</h3>
-          <p>
-            Exploring deterministic data processing where systems remain correct even when events are duplicated,
-            ordering is not guaranteed, and workers restart at any moment.
-          </p>
-          <p class="mono">Feed → Filter → Transform → Execute → Forward → Feedback</p>
-          <p class="note">
-            Add your GitHub link below after you publish the repo.
-          </p>
-        </div>
-        <div class="project-links">
-          <a class="button" href="https://github.com/hTuneSys/hexaFn" target="_blank" rel="noreferrer">GitHub: hexaFn</a>
-          <a class="button" href="#contact">Email</a>
-        </div>
       </div>
-    </section>
 
-    <section class="card" id="contact">
-      <h2>Contact</h2>
-      <p>
-        For opportunities related to IoT platforms, telemetry pipelines, streaming systems, and reliability-critical backend infrastructure:
-      </p>
-      <div class="contact">
-        <div>
-          <div class="label">Email</div>
-          <div class="value"><a href="mailto:info@husamettinarabaci.com">info@husamettinarabaci.com</a></div>
+      <aside class="hero-panel panel">
+        <div class="panel-label">Current Identity</div>
+        <div class="identity-card">
+          <p class="identity-role">Distributed Systems Engineer (Rust)</p>
+          <p class="identity-meta">Inventor · Architect · Open Technology Builder</p>
         </div>
-        <div>
-          <div class="label">Location</div>
-          <div class="value">Turkey — Remote (US Hours)</div>
+
+        <div class="signal-visual" aria-hidden="true">
+          <span class="ring ring-1"></span>
+          <span class="ring ring-2"></span>
+          <span class="ring ring-3"></span>
+          <span class="core"></span>
         </div>
-        <div>
-          <div class="label">Links</div>
-          <div class="value">
-            <a href="#" title="Replace with your LinkedIn URL">LinkedIn</a>
-            <span class="sep">·</span>
-            <a href="#" title="Replace with your GitHub profile URL">GitHub</a>
+
+        <div class="hero-card-groups">
+          <div class="card-group">
+            <div class="group-title">Core Domains</div>
+            <div class="mini-grid two">
+              <article class="mini-card">
+                <h3>Deterministic Distributed Systems</h3>
+              </article>
+              <article class="mini-card">
+                <h3>Harmonic Field Synthesis Technologies</h3>
+              </article>
+            </div>
+          </div>
+
+          <div class="card-group">
+            <div class="group-title">Wave Media</div>
+            <div class="mini-grid four">
+              <article class="mini-card"><h3>Acoustic</h3></article>
+              <article class="mini-card"><h3>Electromagnetic</h3></article>
+              <article class="mini-card"><h3>Photonic</h3></article>
+              <article class="mini-card"><h3>Quantum</h3></article>
+            </div>
           </div>
         </div>
+      </aside>
+    </section>
+
+    <section class="container section" id="about">
+      <div class="section-heading">
+        <p class="eyebrow">About</p>
+        <h2>Two domains, one engineering philosophy</h2>
       </div>
 
-      <p class="footer-note">
-        Tip: replace the placeholder LinkedIn/GitHub links in <span class="mono">index.html</span> before publishing.
-      </p>
+      <div class="grid two-up">
+        <article class="panel">
+          <h3>Distributed systems</h3>
+          <p>
+            I build systems that must remain correct under retries, crashes, network partitions,
+            duplicate events, and broken ordering. My work spans edge communication systems,
+            real-time telemetry ingestion, and high-throughput cloud pipelines.
+          </p>
+        </article>
+
+        <article class="panel">
+          <h3>Harmonic systems</h3>
+          <p>
+            I also design the technologies behind structured harmonic wave generation across
+            acoustic, electromagnetic, photonic, and quantum domains, turning difficult wave
+            knowledge into programmable infrastructure.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section class="container section" id="inventor">
+      <div class="section-heading">
+        <p class="eyebrow">Inventor Work</p>
+        <h2>The hexaTune framework</h2>
+      </div>
+
+      <div class="grid feature-layout">
+        <article class="panel feature-main">
+          <div class="quote-block">
+            <p><strong>hexaTune</strong> is a <strong>Harmonic Field Synthesis System</strong>.</p>
+            <p class="muted">Devices built on this infrastructure operate as <strong>Harmonic Tuning Engines</strong>.</p>
+          </div>
+
+          <p>
+            The framework provides programmable infrastructure for structured harmonic wave pattern generation
+            across acoustic, electromagnetic, photonic, and quantum fields. It combines hardware, DSP,
+            protocols, applications, and APIs into a single open technology ecosystem.
+          </p>
+
+          <div class="feature-points">
+            <div>
+              <span class="point-title">Infrastructure</span>
+              <p>Open APIs, protocols, and controllable signal systems.</p>
+            </div>
+            <div>
+              <span class="point-title">Devices</span>
+              <p>Engines that reproduce synchronized harmonic patterns.</p>
+            </div>
+            <div>
+              <span class="point-title">Open Technology</span>
+              <p>Built through hTuneSys and supported by hexaTeam research.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="panel side-stack">
+          <div>
+            <p class="panel-label">Open Structure</p>
+            <h3>hTuneSys</h3>
+            <p>The open-source organization hosting the core technologies of the hexaTune ecosystem.</p>
+          </div>
+          <div>
+            <p class="panel-label">R&amp;D Team</p>
+            <h3>hexaTeam</h3>
+            <p>The engineering and research team exploring harmonic signal generation and wave systems.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="container section" id="engineering">
+      <div class="section-heading">
+        <p class="eyebrow">Engineering</p>
+        <h2>Correctness under disorder</h2>
+      </div>
+
+      <div class="grid engineering-layout">
+        <article class="panel">
+          <h3>What I build</h3>
+          <ul class="bullet-list">
+            <li>Real-time telemetry ingestion at multi-Gbps scale</li>
+            <li>Stateful streaming detection pipelines across clustered infrastructure</li>
+            <li>IoT event processing with idempotent transaction handling</li>
+            <li>Crash-safe task orchestration and deterministic replay</li>
+            <li>Coordination systems that eliminate split-brain risk</li>
+          </ul>
+        </article>
+
+        <article class="panel">
+          <h3>Engineering focus</h3>
+          <ul class="bullet-list">
+            <li>Idempotent processing</li>
+            <li>Out-of-order event correction</li>
+            <li>Deterministic recovery &amp; replay</li>
+            <li>Backpressure and batching strategies</li>
+            <li>Consistency under concurrency</li>
+            <li>Fault-tolerant edge-to-cloud architectures</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="container section" id="ecosystem">
+      <div class="section-heading">
+        <p class="eyebrow">Ecosystem</p>
+        <h2>Open technology around hexaTune</h2>
+      </div>
+
+      <div class="grid three-up">
+        <article class="panel">
+          <h3>hexaGenMini</h3>
+          <p>Programmable signal generation hardware for harmonic experimentation and system integration.</p>
+        </article>
+        <article class="panel">
+          <h3>hexaGenApp</h3>
+          <p>Application layer for controlling devices and delivering harmonic systems through software.</p>
+        </article>
+        <article class="panel">
+          <h3>hexaTuneDsp &amp; Proto</h3>
+          <p>DSP synthesis and device communication layers supporting reproducible harmonic infrastructures.</p>
+        </article>
+      </div>
     </section>
   </main>
 
-  <footer class="container footer">
-    <span>© <span id="year"></span> Husamettin Arabaci</span>
-    <span class="sep">·</span>
-    <a href="#about">Back to top</a>
-  </footer>
+  <footer class="site-footer" id="contact">
+    <div class="container footer-row">
+      <div>
+        <h3>Husamettin Arabaci</h3>
+        <p class="muted">Distributed Systems Engineer (Rust) · Inventor of Harmonic Field Synthesis Systems and Harmonic Tuning Engines</p>
+      </div>
 
-  <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
-  </script>
+      <div class="contact-links">
+        <a href="https://github.com/husamettinarabaci" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="https://github.com/hTuneSys" target="_blank" rel="noreferrer">hTuneSys</a>
+        <a href="#top">Back to top</a>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>
