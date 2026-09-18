@@ -76,7 +76,7 @@ As this work develops, the strongest artifacts will be documented and pinned her
 
 ---
 
-**Web:** husamettinarabaci.com
-**X:** @hsmarabaci
-**daily.dev:** daily.dev/husamettinarabaci
+---
+
+[Website](https://husamettinarabaci.com) · [X](https://x.com/hsmarabaci) · [daily.dev](https://daily.dev/husamettinarabaci)
 
